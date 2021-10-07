@@ -64,7 +64,7 @@ export class DashboardComponent implements OnInit {
 
     const opcoes = this.obterOpcoes();
 
-    opcoes['pieHole'] = 0.4;
+    opcoes['pieHole'] = 0.2;
 
     chart.draw(this.obterDataTable(), opcoes);
   }
