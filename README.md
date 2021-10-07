@@ -1,6 +1,9 @@
 # Dashboard
+<p align="center">
+  <img src="src\assets\2021-10-07 (1).png" width="350" title="hover text">
+  <img src="src\assets\2021-10-07 (1).png" width="350" alt="accessibility text">
+</p>
 
-https://imgur.com/yNdqvsq
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
